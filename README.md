@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rishit Sharma</h1>
 
 <p align="center">
-  Aspiring <strong>Quant Developer</strong> | C++ Learner | Python Enthusiast | Finance + AI
+  Aspiring <strong>Quant Developer</strong> | C++ Learner | Python Enthusiast | Finance + AI <br>
+  <span style="font-size:1rem;">
+  currently working on StratSim (a backtest app) and WalletTree (Ai based Stock Investor For genz)
+  </span>
 </p>
+<p align="center">
+</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="250"/>
